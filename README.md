@@ -3,3 +3,5 @@ Our project proposes a verified ATM (Automated Teller Machine) utilizing a card 
 Thus, our proposed idea underpins the ATM card scanning along with an OTP. As per this system, the client may examine his card and login to the system with the separate OTP. After the client is through with this confirmation, he may see subtleties, similar to his bank equalization or exchange history, however is approached to enter OTP when he clicks cash withdrawal option.  
 At this stage the framework creates and sends a One-time Password (OTP) to the enrolled mobile number of that specific client. This telephone number must be related with the client's bank account. He now needs to enter the OTP in the system so as to withdraw cash. Subsequently, our framework gives a thoroughly secure approach to perform ATM exchanges with two level security structure.  
 In the system structure explained above, the Onetime Password which is sent to the client is encrypted when sent from the bank's database and only decrypted when received by the client. Henceforth that OTP can't be intercepted by anybody in between of the bank and the account holder. 
+
+ONLY WORKS ON UBNTU. 
